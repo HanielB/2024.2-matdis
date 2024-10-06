@@ -8,9 +8,7 @@ description: Lista de tópicos e aulas a serem vistas
 
 ---
 
-Esta págica contém as aulas previamente ministradas e notas de aulas, além de leituras a serem feitas.
-
-Capítulos e seções nas notas de aula são do livro-texto, exceto quando especificado de outra forma.
+Esta págica contém as aulas ministradas e notas de aulas, quando disponíveis.
 
 ---
 {% for module in site.modules %}
