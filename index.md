@@ -33,8 +33,6 @@ seo:
 
 ---
 
-{: .no_toc .mb-2 }
-
 # Tópico 1: Elementos fundamentais da análise combinatória
 
 ## Coeficientes Binomiais

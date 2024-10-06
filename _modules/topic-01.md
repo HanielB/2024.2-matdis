@@ -11,15 +11,12 @@ title: Tópico 01 - Elementos fundamentais da análise combinatória
 
 25 Set
 : **Elementos básicos de contagem**
-  : Regras do produto, soma, subtração, divisão;
-  : Coeficientes Binomiais
+  : Regras do produto, soma, subtração, divisão; Coeficientes Binomiais
 
 30 Set
 : **Permutações e combinações**
-  : Teorema Binomial;
-  : Permutações, combinações
+  : Teorema Binomial; Permutações, combinações
 
 2 Out
 : **Técnicas avançadas de contagem**
-  : Permutações e combinações com repetição;
-  : Distribuição de objetos em caixas
+  : Permutações e combinações com repetição; Distribuição de objetos em caixas
