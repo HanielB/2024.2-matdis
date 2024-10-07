@@ -20,3 +20,8 @@ title: Tópico 01 - Elementos fundamentais da análise combinatória
 2 Out
 : **Técnicas avançadas de contagem**
   : Permutações e combinações com repetição; Distribuição de objetos em caixas
+
+7 Out
+: **Técnicas avançadas de contagem**
+  : Distribuição de objetos em caixas
+: **Princípio da Casa dos Pombos**
