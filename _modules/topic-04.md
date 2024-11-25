@@ -19,7 +19,10 @@ title: Tópico 04 - Relações
 
 18 Nov
 : **Relações**
-  : Ordens parciais; Indução; Ordem lexicográfica
+  : Ordens parciais; Indução
 
 20 Nov
 : Sem aula (recesso escolar)
+
+25, 27 Nov
+: Introdução a Alloy
