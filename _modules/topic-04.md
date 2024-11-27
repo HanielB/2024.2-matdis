@@ -25,4 +25,4 @@ title: Tópico 04 - Relações
 : Sem aula (recesso escolar)
 
 25, 27 Nov
-: Introdução a Alloy
+: [**Introdução a Alloy**]({{ site.baseurl }}{% link _lessons/03-relations-alloy/alloy-intro.md %})
