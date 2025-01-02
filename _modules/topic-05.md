@@ -25,3 +25,18 @@ title: Tópico 05 - Grafos
 6, 8 Jan
 : **Grafos**
   : grafo regular, ciclos, grafo bipartigo, distância, uma propriedade extremal, raio e diâmetro, planaridade e cores
+
+13 Jan
+: Revisão
+
+15 Jan
+: Prova 3
+
+20 Jan
+: Prova substitutiva
+
+22 Jan
+: Grafos em Alloy
+
+27 Jan
+: Exame Especial
