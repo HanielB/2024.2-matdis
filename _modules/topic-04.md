@@ -26,3 +26,9 @@ title: Tópico 04 - Relações
 
 25, 27 Nov
 : [**Introdução a Alloy**]({{ site.baseurl }}{% link _lessons/03-relations-alloy/alloy-intro.md %})
+
+2 Dez
+: Revisão
+
+4 Dez
+: Prova 2
